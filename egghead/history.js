@@ -5,7 +5,7 @@ import Icon from 'react-icon-base'
 const EggheadHistory = props => (
     <Icon viewBox="0 0 20 18" {...props}>
         <g>
-    <g id="Dashboard" stroke="none" strokeWidth="1" fill-rule="evenodd">
+    <g id="Dashboard" stroke="none" strokeWidth="1" fillRule="evenodd">
         <g id="New-Dashboard" transform="translate(-985.000000, -371.000000)">
             <g id="&#x1F4C9;Stats" transform="translate(930.000000, 196.000000)">
                 <g id="Stats/LessonsWatched" transform="translate(28.000000, 112.000000)">

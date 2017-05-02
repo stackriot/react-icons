@@ -5,7 +5,7 @@ import Icon from 'react-icon-base'
 const EggheadArrowDown = props => (
     <Icon viewBox="0 0 12 8" {...props}>
         <g>
-    <g id="Symbols" stroke="none" strokeWidth="1" fill-rule="evenodd">
+    <g id="Symbols" stroke="none" strokeWidth="1" fillRule="evenodd">
         <g id="&#x1F453;Continue-Watching" transform="translate(-86.000000, -469.000000)">
             <g id="Group-2" transform="translate(62.000000, 464.000000)">
                 <g id="ico-arrow-down" transform="translate(22.000000, 0.000000)">

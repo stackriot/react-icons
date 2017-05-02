@@ -5,7 +5,7 @@ import Icon from 'react-icon-base'
 const EggheadQuickLessonsHeadline = props => (
     <Icon viewBox="0 0 24 24" {...props}>
         <g>
-    <g id="Dashboard" stroke="none" strokeWidth="1" fill-rule="evenodd">
+    <g id="Dashboard" stroke="none" strokeWidth="1" fillRule="evenodd">
         <g id="1-3-1-Browse-RxJS" transform="translate(-531.000000, -912.000000)">
             <g id="Group-14" transform="translate(0.000000, 824.000000)">
                 <g id="Group-9" transform="translate(531.000000, 85.000000)">

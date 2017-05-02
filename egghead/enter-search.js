@@ -5,7 +5,7 @@ import Icon from 'react-icon-base'
 const EggheadEnterSearch = props => (
     <Icon viewBox="0 0 12 13" {...props}>
         <g>
-    <g id="Dashboard" stroke="none" strokeWidth="1" fill-rule="evenodd" opacity="0.5">
+    <g id="Dashboard" stroke="none" strokeWidth="1" fillRule="evenodd" opacity="0.5">
         <g id="New-Dashboard" transform="translate(-1277.000000, -122.000000)">
             <g id="Group-11" transform="translate(130.000000, 104.000000)">
                 <g id="Group-5" transform="translate(1146.000000, 16.000000)">
