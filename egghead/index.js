@@ -13,5 +13,6 @@ export EggheadPlus from './plus';
 export EggheadProfile from './profile';
 export EggheadQuestion from './question';
 export EggheadQuickLessonsHeadline from './quick-lessons-headline';
+export EggheadRss from './rss';
 export EggheadTechnology from './technology';
 export EggheadUpload from './upload';
