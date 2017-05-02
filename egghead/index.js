@@ -11,6 +11,7 @@ export EggheadHistory from './history';
 export EggheadInfo from './info';
 export EggheadPlus from './plus';
 export EggheadProfile from './profile';
+export EggheadProgressRing from './progress-ring';
 export EggheadQuestion from './question';
 export EggheadQuickLessonsHeadline from './quick-lessons-headline';
 export EggheadRss from './rss';
