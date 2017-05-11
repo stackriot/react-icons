@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadStarFill = props => (
+const EggheadIcoStarFill = props => (
     <Icon viewBox="0 0 20 19" {...props}>
         <g>
     <g id="Page-1" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -14,4 +14,4 @@ const EggheadStarFill = props => (
     </Icon>
 )
 
-export default EggheadStarFill
+export default EggheadIcoStarFill

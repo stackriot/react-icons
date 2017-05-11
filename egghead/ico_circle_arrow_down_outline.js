@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadCircleArrowDownOutline = props => (
+const EggheadIcoCircleArrowDownOutline = props => (
     <Icon viewBox="0 0 18 18" {...props}>
         <g>
     <g id="Page-1" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -15,4 +15,4 @@ const EggheadCircleArrowDownOutline = props => (
     </Icon>
 )
 
-export default EggheadCircleArrowDownOutline
+export default EggheadIcoCircleArrowDownOutline

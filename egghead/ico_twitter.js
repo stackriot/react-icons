@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadTwitter = props => (
+const EggheadIcoTwitter = props => (
     <Icon viewBox="0 0 30 30" {...props}>
         <g>
     <g id="Page-1" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -14,4 +14,4 @@ const EggheadTwitter = props => (
     </Icon>
 )
 
-export default EggheadTwitter
+export default EggheadIcoTwitter
