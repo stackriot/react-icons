@@ -24,6 +24,7 @@ export EggheadLessonPlayPlaylist from './lesson_play_playlist';
 export EggheadMail from './mail';
 export EggheadPlayCourse from './play_course';
 export EggheadPlayLesson from './play_lesson';
+export EggheadPlay from './play';
 export EggheadPlus from './plus';
 export EggheadProfile from './profile';
 export EggheadProgressRing from './progress-ring';
