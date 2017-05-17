@@ -34,6 +34,7 @@ export EggheadRefresh from './refresh';
 export EggheadRequest from './request';
 export EggheadRevise from './revise';
 export EggheadRss from './rss';
+export EggheadSignOut from './sign-out';
 export EggheadStarFill from './star_fill';
 export EggheadStarOutline from './star_outline';
 export EggheadStats from './stats';
