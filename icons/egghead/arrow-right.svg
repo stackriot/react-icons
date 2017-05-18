@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="Page-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
-        <g id="ico_arrow_right" fill="#C1C6CC">
-            <polygon transform="translate(10.000000, 9.000000) rotate(-90.000000) translate(-10.000000, -9.000000) " points="5.40999984 5.4 10 9.85020237 14.5900001 5.4 16 6.77004037 10 12.6 4 6.77004037"></polygon>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="👓Continue-Watching" transform="translate(-194.000000, -461.000000)" fill="#232D3B">
+            <g id="Group-2" transform="translate(49.000000, 461.000000)">
+                <g id="ico-arrow-left" transform="translate(145.000000, 0.000000)">
+                    <polygon id="ico-arrow-right" transform="translate(12.205000, 11.799987) rotate(-90.000000) translate(-12.205000, -11.799987) " points="7.61499982 8.09498773 12.2049997 12.6749873 16.7949995 8.09498773 18.2049993 9.5049875 12.2049997 15.5049871 6.20500006 9.5049875"></polygon>
+                </g>
+            </g>
         </g>
     </g>
 </svg>
