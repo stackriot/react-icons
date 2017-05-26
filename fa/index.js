@@ -463,6 +463,7 @@ export FaRetweet from './retweet';
 export FaRoad from './road';
 export FaRocket from './rocket';
 export FaRotateLeft from './rotate-left';
+export FaRotateRight from './rotate-right';
 export FaRouble from './rouble';
 export FaRssSquare from './rss-square';
 export FaSafari from './safari';
