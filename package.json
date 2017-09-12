@@ -1,6 +1,6 @@
 {
-  "name": "react-icons",
-  "version": "3.9.0",
+  "name": "stackriot-icons",
+  "version": "4.0.0",
   "description": "svg react icons of popular icon packs using ES6 imports",
   "scripts": {
     "docs": "babel-node ./bin/generate-docs",
@@ -50,9 +50,9 @@
     "ghooks": "^1.3.2",
     "glob": "^6.0.4",
     "gulp": "^3.9.0",
-    "marky-markdown": "https://github.com/npm/marky-markdown",
+    "marky-markdown": "git+https://github.com/npm/marky-markdown.git",
     "material-design-lite": "^1.0.6",
-    "svg-scaler": "gorangajic/svg-scaler#take-size-viewbox",
+    "svg-scaler": "github:gorangajic/svg-scaler#take-size-viewbox",
     "underscore": "^1.8.3",
     "validate-commit-msg": "^2.6.1"
   },
@@ -78,5 +78,13 @@
       "subjectPatternErrorMsg": "subject does not match subject pattern!",
       "helpMessage": ""
     }
+  },
+  "main": "IconBase.js",
+  "bin": {
+    "stackriot-icons": "create.js"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
   }
 }
