@@ -1,7 +1,7 @@
 {
-  "name": "stackriot-icons",
+  "name": "react-icons",
   "version": "3.9.0",
-  "description": "svg stackriot icons of popular icon packs using ES6 imports",
+  "description": "svg react icons of popular icon packs using ES6 imports",
   "scripts": {
     "docs": "babel-node ./bin/generate-docs",
     "build": "node ./bin/create | xargs babel --out-dir lib",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/stackriot/stackriot-icons.git"
+    "url": "git+ssh://git@github.com/gorangajic/react-icons.git"
   },
   "keywords": [
     "react",
@@ -26,9 +26,9 @@
   "author": "Goran Gajic",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stackriot/stackriot-icons/issues"
+    "url": "https://github.com/gorangajic/react-icons/issues"
   },
-  "homepage": "https://github.com/stackriot/stackriot-icons#readme",
+  "homepage": "https://github.com/gorangajic/react-icons#readme",
   "devDependencies": {
     "babel": "6.5.2",
     "babel-cli": "6.7.5",
@@ -60,7 +60,7 @@
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
     "react-icon-base": "^2.0.7",
-    "stackriot-icons": "^2.2.5"
+    "react-icons": "^2.2.5"
   },
   "config": {
     "commitizen": {

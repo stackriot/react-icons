@@ -15,7 +15,7 @@ class App extends React.Component {
                         <div className="mdl-layout-spacer">
                             <h3>
                                 <div className="logo-wrap">
-                                    <img src="https://rawgit.com/stackriot/stackriot-icons/master/stackriot-icons.svg" width="40" height="40" />
+                                    <img src="https://rawgit.com/react/react-icons/master/react-icons.svg" width="40" height="40" />
                                 </div>
                                 StackRiot Icons
                             </h3>
