@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const StackriotPlaybook = props => (
+const EggheadPlaybook = props => (
     <Icon viewBox="0 0 21 19" {...props}>
         <g>
     <g id="&#x2699;&#xFE0F;-Site-Navigation" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -24,4 +24,4 @@ const StackriotPlaybook = props => (
     </Icon>
 )
 
-export default StackriotPlaybook
+export default EggheadPlaybook

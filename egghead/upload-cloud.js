@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const StackriotUploadCloud = props => (
+const EggheadUploadCloud = props => (
     <Icon viewBox="0 0 24 24" {...props}>
         <g>
     <g id="Admin" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -20,4 +20,4 @@ const StackriotUploadCloud = props => (
     </Icon>
 )
 
-export default StackriotUploadCloud
+export default EggheadUploadCloud

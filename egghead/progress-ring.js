@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const StackriotProgressRing = props => (
+const EggheadProgressRing = props => (
     <Icon viewBox="0 0 32 32" {...props}>
         <g>
     <g id="Symbols" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -12,4 +12,4 @@ const StackriotProgressRing = props => (
     </Icon>
 )
 
-export default StackriotProgressRing
+export default EggheadProgressRing
