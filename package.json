@@ -1,6 +1,6 @@
 {
   "name": "stackriot-icons",
-  "version": "4.0.0",
+  "version": "4.1.1",
   "description": "svg react icons of popular icon packs using ES6 imports",
   "scripts": {
     "docs": "babel-node ./bin/generate-docs",
