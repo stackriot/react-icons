@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadHelp = props => (
+const StackriotHelp = props => (
     <Icon viewBox="0 0 24 24" {...props}>
         <g>
     <g id="Symbols" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -16,4 +16,4 @@ const EggheadHelp = props => (
     </Icon>
 )
 
-export default EggheadHelp
+export default StackriotHelp

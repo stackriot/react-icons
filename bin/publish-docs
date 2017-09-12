@@ -8,5 +8,5 @@ cd publish
 git init
 git add .
 git commit -m "published docs"
-git remote add origin git@github.com:gorangajic/react-icons.git
+git remote add origin git@github.com:stackriot/stackriot-icons.git
 git push --force origin master:gh-pages

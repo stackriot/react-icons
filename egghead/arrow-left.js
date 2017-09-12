@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadArrowLeft = props => (
+const StackriotArrowLeft = props => (
     <Icon viewBox="0 0 24 24" {...props}>
         <g>
     <g id="Symbols" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -18,4 +18,4 @@ const EggheadArrowLeft = props => (
     </Icon>
 )
 
-export default EggheadArrowLeft
+export default StackriotArrowLeft

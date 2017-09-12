@@ -6,9 +6,9 @@ module.exports = {
     licence: "SIL OFL 1.1",
     licenceUrl: "http://scripts.sil.org/OFL"
   },
-  egghead: {
-    name: "egghead Icons",
+  stackriot: {
+    name: "Stackriot Icons",
     url: "http://fontawesome.io/",
-    attribution: "egghead Icons by egghead.io - https://styleguide.egghead.io"
+    attribution: "Stackriot Icons - https://styleguide.stackriot.com"
   }
 }

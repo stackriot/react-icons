@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadTimerPlus = props => (
+const StackriotTimerPlus = props => (
     <Icon viewBox="0 0 24 24" {...props}>
         <g>
     <g id="Admin" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -18,4 +18,4 @@ const EggheadTimerPlus = props => (
     </Icon>
 )
 
-export default EggheadTimerPlus
+export default StackriotTimerPlus

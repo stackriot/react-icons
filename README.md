@@ -1,9 +1,9 @@
-# egghead fork of react-icons
+# stackriot fork of stackriot-icons
 
-See [styleguide.egghead.io](https://styleguide.egghead.io)
+See [styleguide.stackriot.io](https://styleguide.stackriot.io)
 
 More info:
-See [npmjs.com/package/react-icons](https://www.npmjs.com/package/react-icons)
+See [npmjs.com/package/stackriot-icons](https://www.npmjs.com/package/stackriot-icons)
 
 ## Contributing
 

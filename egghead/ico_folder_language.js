@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadIcoFolderLanguage = props => (
+const StackriotIcoFolderLanguage = props => (
     <Icon viewBox="0 0 18 18" {...props}>
         <g>
     <g id="Page-1" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -14,4 +14,4 @@ const EggheadIcoFolderLanguage = props => (
     </Icon>
 )
 
-export default EggheadIcoFolderLanguage
+export default StackriotIcoFolderLanguage

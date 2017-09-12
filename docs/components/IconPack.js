@@ -11,7 +11,7 @@ export default class IconPack extends React.Component {
             <div className="icon-pack">
                 <h1> {pack.name} </h1>
                 <h4> {pack.attribution} </h4>
-                <code>import {iconPackName} from 'react-icons/lib/{prefix}'</code>
+                <code>import {iconPackName} from 'stackriot-icons/lib/{prefix}'</code>
                 <div className="mdl-grid">
                     {Object.keys(pack.icons).map((iconName, index) => {
                         let Icon = pack.icons[iconName];
@@ -21,7 +21,7 @@ export default class IconPack extends React.Component {
                                 <Icon style={{fill:"#666"}} size={50} />
                                 <div className="icon-name">{iconName}</div>
                                 <div className="icon-location" style={{fontSize: 10}}>
-                                    <code>{`react-icons/lib/${prefix}/${realIconName}`}</code>
+                                    <code>{`stackriot-icons/lib/${prefix}/${realIconName}`}</code>
                                 </div>
                             </div>
                         );
