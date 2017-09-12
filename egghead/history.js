@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadHistory = props => (
+const StackriotHistory = props => (
     <Icon viewBox="0 0 20 18" {...props}>
         <g>
     <g id="Dashboard" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -22,4 +22,4 @@ const EggheadHistory = props => (
     </Icon>
 )
 
-export default EggheadHistory
+export default StackriotHistory

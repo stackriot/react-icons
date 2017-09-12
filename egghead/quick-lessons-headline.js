@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadQuickLessonsHeadline = props => (
+const StackriotQuickLessonsHeadline = props => (
     <Icon viewBox="0 0 24 24" {...props}>
         <g>
     <g id="Dashboard" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -20,4 +20,4 @@ const EggheadQuickLessonsHeadline = props => (
     </Icon>
 )
 
-export default EggheadQuickLessonsHeadline
+export default StackriotQuickLessonsHeadline

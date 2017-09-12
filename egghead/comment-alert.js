@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadCommentAlert = props => (
+const StackriotCommentAlert = props => (
     <Icon viewBox="0 0 24 24" {...props}>
         <g>
     <g id="Admin" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -20,4 +20,4 @@ const EggheadCommentAlert = props => (
     </Icon>
 )
 
-export default EggheadCommentAlert
+export default StackriotCommentAlert

@@ -9,6 +9,6 @@ module.exports = {
   stackriot: {
     name: "Stackriot Icons",
     url: "http://fontawesome.io/",
-    attribution: "Stackriot Icons - https://styleguide.stackriot.com"
+    attribution: "Stackriot Icons - http://styleguide.stackriot.com"
   }
 }

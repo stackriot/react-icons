@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadRefresh = props => (
+const StackriotRefresh = props => (
     <Icon viewBox="0 0 24 24" {...props}>
         <g>
     <g id="Admin" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -20,4 +20,4 @@ const EggheadRefresh = props => (
     </Icon>
 )
 
-export default EggheadRefresh
+export default StackriotRefresh

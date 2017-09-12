@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const EggheadClockTime = props => (
+const StackriotClockTime = props => (
     <Icon viewBox="0 0 18 18" {...props}>
         <g>
     <g id="Page-1" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -14,4 +14,4 @@ const EggheadClockTime = props => (
     </Icon>
 )
 
-export default EggheadClockTime
+export default StackriotClockTime
