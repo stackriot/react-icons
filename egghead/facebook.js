@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const StackriotFacebook = props => (
+const EggheadFacebook = props => (
     <Icon viewBox="0 0 30 30" {...props}>
         <g>
     <g id="Page-1" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -14,4 +14,4 @@ const StackriotFacebook = props => (
     </Icon>
 )
 
-export default StackriotFacebook
+export default EggheadFacebook

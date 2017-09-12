@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const StackriotStarOutline = props => (
+const EggheadStarOutline = props => (
     <Icon viewBox="0 0 20 19" {...props}>
         <g>
     <g id="Page-1" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -14,4 +14,4 @@ const StackriotStarOutline = props => (
     </Icon>
 )
 
-export default StackriotStarOutline
+export default EggheadStarOutline

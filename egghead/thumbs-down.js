@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const StackriotThumbsDown = props => (
+const EggheadThumbsDown = props => (
     <Icon viewBox="0 0 24 24" {...props}>
         <g>
     <g id="Admin" stroke="none" strokeWidth="1" fillRule="evenodd">
@@ -20,4 +20,4 @@ const StackriotThumbsDown = props => (
     </Icon>
 )
 
-export default StackriotThumbsDown
+export default EggheadThumbsDown

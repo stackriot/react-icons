@@ -2,7 +2,7 @@
 import React from 'react'
 import Icon from 'react-icon-base'
 
-const StackriotEnterSearch = props => (
+const EggheadEnterSearch = props => (
     <Icon viewBox="0 0 12 13" {...props}>
         <g>
     <g id="Dashboard" stroke="none" strokeWidth="1" fillRule="evenodd" opacity="0.5">
@@ -18,4 +18,4 @@ const StackriotEnterSearch = props => (
     </Icon>
 )
 
-export default StackriotEnterSearch
+export default EggheadEnterSearch
