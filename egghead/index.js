@@ -9,6 +9,7 @@ export EggheadCheck from './check';
 export EggheadCircleArrowDownOutline from './circle_arrow_down_outline';
 export EggheadClockTime from './clock_time';
 export EggheadCommentAlert from './comment-alert';
+export EggheadCommunityResource from './community-resource';
 export EggheadCross from './cross';
 export EggheadEdit from './edit';
 export EggheadEnterSearch from './enter-search';
