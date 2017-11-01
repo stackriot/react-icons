@@ -4,6 +4,7 @@ export EggheadArrowDown from './arrow-down';
 export EggheadArrowLeft from './arrow-left';
 export EggheadArrowRight from './arrow-right';
 export EggheadArrowUp from './arrow-up';
+export EggheadBrowseAll from './browse-all';
 export EggheadCheckWatched from './check_watched';
 export EggheadCheck from './check';
 export EggheadCircleArrowDownOutline from './circle_arrow_down_outline';
