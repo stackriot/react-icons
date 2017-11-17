@@ -5,7 +5,7 @@ import Icon from 'react-icon-base'
 const EggheadEditBook = props => (
     <Icon viewBox="0 0 42 31" {...props}>
         <g>
-  <g fill-rule="evenodd">
+  <g fillRule="evenodd">
     <g transform="translate(4 5)">
       <rect width="10" height="2" x="10" y="5" rx="1"/>
       <rect width="10" height="2" x="10" rx="1"/>
