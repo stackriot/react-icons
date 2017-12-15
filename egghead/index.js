@@ -2,6 +2,7 @@ export EggheadAccept from './accept';
 export EggheadAlert from './alert';
 export EggheadArrowDown from './arrow-down';
 export EggheadArrowLeft from './arrow-left';
+export EggheadArrowRightLong from './arrow-right-long';
 export EggheadArrowRight from './arrow-right';
 export EggheadArrowUp from './arrow-up';
 export EggheadBrowseAll from './browse-all';
