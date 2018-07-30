@@ -57,10 +57,10 @@
     "validate-commit-msg": "^2.6.1"
   },
   "dependencies": {
-    "react": "^15.0.0",
-    "react-dom": "^15.0.0",
-    "react-icon-base": "^2.0.7",
-    "react-icons": "^2.2.5"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-icon-base": "^2.1.0",
+    "react-icons": "^2.2.7"
   },
   "config": {
     "commitizen": {
